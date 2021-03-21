@@ -1,0 +1,12 @@
+/* cursos */
+.cursos-cont{
+    display: flex;
+    justify-content: space-around;
+  }
+  .cursos{
+    background: rgb(85, 169, 211) ;
+  }
+  .cursos-cont .texto-izquierda{
+    color: #fff;
+    text-shadow: 1px 1px 2px rgb(0, 0, 0);
+  }
